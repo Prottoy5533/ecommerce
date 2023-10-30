@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\ecommerce\\API\\API.csproj",
         "projectName": "API",
         "projectPath": "D:\\ecommerce\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\abid5\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Abid\\.nuget\\packages\\",
         "outputPath": "D:\\ecommerce\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\abid5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -114,14 +114,14 @@
         "projectUniqueName": "D:\\ecommerce\\Core\\Core.csproj",
         "projectName": "Core",
         "projectPath": "D:\\ecommerce\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\abid5\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Abid\\.nuget\\packages\\",
         "outputPath": "D:\\ecommerce\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\abid5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -164,7 +164,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -174,14 +174,14 @@
         "projectUniqueName": "D:\\ecommerce\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
         "projectPath": "D:\\ecommerce\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\abid5\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Abid\\.nuget\\packages\\",
         "outputPath": "D:\\ecommerce\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\abid5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -236,6 +236,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.122, )"
             }
           },
           "imports": [
@@ -254,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

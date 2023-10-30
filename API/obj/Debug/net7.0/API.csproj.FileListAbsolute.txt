@@ -80,3 +80,5 @@ D:\ecommerce\API\obj\Debug\net7.0\ref\API.dll
 D:\ecommerce\API\bin\Debug\net7.0\AutoMapper.dll
 D:\ecommerce\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\ecommerce\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+D:\ecommerce\API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+D:\ecommerce\API\bin\Debug\net7.0\StackExchange.Redis.dll

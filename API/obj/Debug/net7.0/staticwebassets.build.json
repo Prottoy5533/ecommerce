@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3wJ5Fp90ELTCzhCnS5UKmlowN8uKDri+VqUEnGEF2rg=",
+  "Hash": "IY6rmDmiVImmdp5XQNvCO6JRpoBphPg2Ix1EJEtZ3DU=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -16,23 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "D:\\ecommerce\\API\\wwwroot\\images\\.DS_Store",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/.DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
-    },
     {
       "Identity": "D:\\ecommerce\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "API",
