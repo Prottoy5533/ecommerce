@@ -15,8 +15,8 @@ export interface Basket {
   items: BasketItem[];
   // clientSecret?: string;
   // paymentIntentId?: string;
-  // deliveryMethodId?: number;
-  // shippingPrice: number;
+   deliveryMethodId?: number;
+   shippingPrice: number;
 }
 
 export class Basket implements Basket {
