@@ -45,20 +45,25 @@ namespace Infrastructure.Services
             var spec = new OrderByPaymentIntentIdSpecification(basket.PaymentIntentId);
             var order = await _unitOfWork.Repository<Order>().GetEntityWithSpec(spec);
 
-            if (order != null)
-            {
-                order.ShipToAddress = shippingAddress;
-                order.DeliveryMethod = deliveryMethod;
-                order.Subtotal = subtotal;
-                _unitOfWork.Repository<Order>().Update(order);
-            }
-            else
-            {
-                // create order
-                order = new Order(items, buyerEmail, shippingAddress, deliveryMethod,
-                    subtotal, basket.PaymentIntentId);
-                _unitOfWork.Repository<Order>().Add(order);
-            }
+            //if (order != null)
+            //{
+            //    order.ShipToAddress = shippingAddress;
+            //    order.DeliveryMethod = deliveryMethod;
+            //    order.Subtotal = subtotal;
+            //    _unitOfWork.Repository<Order>().Update(order);
+            //}
+            //else
+            //{
+            //    // create order
+            //    order = new Order(items, buyerEmail, shippingAddress, deliveryMethod,
+            //        subtotal, basket.PaymentIntentId);
+            //    _unitOfWork.Repository<Order>().Add(order);
+            //}
+
+            // create order
+            order = new Order(items, buyerEmail, shippingAddress, deliveryMethod,
+                subtotal, basket.PaymentIntentId);
+            _unitOfWork.Repository<Order>().Add(order);
 
             // save to db
             var result = await _unitOfWork.Complete();
