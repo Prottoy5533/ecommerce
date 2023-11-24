@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ys1NnTfWB4ZMj0FeTcDC3ypp6tSR5y5LZGn9PSdS8Ats/dQpEAuUaAA1zckz5TLg8xejx7vQJ0K9JL7VRjXtuQ==",
+  "dgSpecHash": "9HqR2gK8xe8cDa5syBStQ5KSA1v0WPGTfu0w/3dCtgzOBVZRitUz0TeZCZtrNuQpGzEh+UnKnVpbwZfNXhP4QQ==",
   "success": true,
   "projectFilePath": "D:\\ecommerce\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -63,8 +63,10 @@
     "C:\\Users\\abid5\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\abid5\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\abid5\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\abid5\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\abid5\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\abid5\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\abid5\\.nuget\\packages\\stripe.net\\43.2.0\\stripe.net.43.2.0.nupkg.sha512",
     "C:\\Users\\abid5\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\abid5\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\abid5\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
